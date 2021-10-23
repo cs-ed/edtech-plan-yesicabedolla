@@ -1,13 +1,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6096581&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+The goal is to introduce students to foundational skills that will help them succeed in future high shcool courses. Many of our students have never had any sort of computer science class. Students be learn about a whole new world of coding. 
 
 ## Context
+This course will focus on introductory coding for middle school computer science.
 
 ### Course
 
-Describe your course including the name, description, and grade level
+Introduction to Coding for Middle School
+Students will learn block coding using Scratch to solve different types of problets
+as well as create a game project as their final project.
+This course is open to middle school grade students. 
+
 
 ### Situation
 
