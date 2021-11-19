@@ -22,51 +22,45 @@ We will learn to use:
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
-
-Sunnyside is a single school district grades K-8 and they also have a state funded preschool on site as well. Enrollment is 368 of which 88.6% Hispanic or Latino, 10.9% White and 0.5% Asian. Socioeconomically Disadvantaged 86.7%. English Learners 46.7%
-and has a Foster Youth of 2.2%. The Academic performance in Mathematics for this school is 102.9 points below standard compared to the state that is 33.5 points below standard. This is going to influence the difficulty of the course.
+Sunnyside is a single school district grades K-8 and they also have a state funded preschool on site as well. Enrollment is 368 of which 88.6% Hispanic or Latino, 10.9% White and 0.5% Asian. Socioeconomically Disadvantaged 86.7%. Free/Reduced Lunch 48.1 %. English Learners 46.7%
+and has a Foster Youth of 2.2%. The Academic performance in Mathematics for this school is 102.9 points below standard compared to the state that is 33.5 points below standard. This is going to influence the difficulty of the course. 
 
 Being Socioeconomically Disadvantaged 86.7% I know that not all students have a internet access outside of school even if they do it is not a very great connect beacuse internet providers are limited in the area. All students have a school issued chromebooks as we are a one to one school.
 
 ## Plan
 
-
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+Every student's operating system will be the same since all students are provided a school device.
 
-scratch.edu operating system that everyone will be using. operating systems same version. installed software that you are going to use. (for programing.) software services for grading to check for plaugerism, how are they going to submit the assignments, 
+I plan to use https://scratch.mit.edu/ "Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations."
+-Students will create an account on Scratch, solve different types of problets, create a final project and share.
 
-
+Google Classroom
+Here I will post the assignments such as the problets and final project that students will complete on Scratch. Students will have to share thier link after they have made it sharable on thier Scratch account and submit here for grading. Here is where i will also post the grading rubric so that students will know what is required to get a passing grade on the work they are completing. 
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Student chromoebooks have:
+Processor Intel Celeron N2840, (2.16 GHz, Turbo up to 2.58 GHz, 1 MB 1333 MHz L2 cache, 2 cores)
+Graphcs Intel HD Graphics 
+4gb of RAM and 16gb of storage
+Webcam
+Chrome OS and its default set of apps
+Power supply HP 45 W Smart AC Adapter
 
-Most of the student chromebooks have 4gb of RAM and 16gb of storage, the macbooks have 8gb of RAM and 128gb of storage
-
-teacher's computer as well.
+The computer that I will be using has:
 Storage capacity 237 GB
-
 Processor	AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx     2.30 GHz
 Installed RAM	12.0 GB (9.92 GB usable)
 System type	64-bit operating system, x64-based processor
 Pen and touch	Touch support with 10 touch points
-
 Edition	Windows 10 Home
 Version	21H1
 Experience	Windows Feature Experience Pack 
+Webcam
 
-wireless connections
-classroom tech such as tvs to project your screen
-
-
+Classroom tech such as three LG - 55"- LED - 1080p - Smart - HDTV Roku TVs  will be used to project my screen so that students can see what I am sharing during class lectures.
 
 ### Application
 
@@ -93,3 +87,5 @@ References:
 https://www.cde.ca.gov/sdprofile/details.aspx?cds=54721810000000
 https://support.hp.com/us-en/document/c04696931
 https://www.caschooldashboard.org/reports/54721810000000/2019
+https://scratch.mit.edu/
+https://classroom.google.com
