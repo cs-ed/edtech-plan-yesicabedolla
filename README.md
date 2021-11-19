@@ -15,11 +15,11 @@ as well as create a game project as their final project.
 This course is open to middle school grade students with no prior experience or courses required. 
 This course will focus on introductory coding for middle school students using Scratch as the platform.
 We will learn to use:
--variables
--(forever) loops
--if statements
--multiples sprites
--customizing colors and backgrounds
+1. variables
+2. loops
+3. if statements
+4. multiples sprites
+5. customizing colors and backgrounds
 
 ### Situation
 
@@ -34,19 +34,22 @@ Being Socioeconomically Disadvantaged 86.7% I know that not all students have a 
 
 Every student's operating system will be the same since all students are provided a school device.
 
-I plan to use https://scratch.mit.edu "Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations."
+I plan to use:
+
+1. Scratch - 
+https://scratch.mit.edu "Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations."
 -Students will create an account on Scratch, solve different types of problets, create a final project and share.
 
-Google Classroom
+2. Google Classroom - 
 Here I will post the assignments such as the problets and final project that students will complete on Scratch. Students will have to share thier link after they have made it sharable on thier Scratch account and submit here for grading. Here is where i will also post the grading rubric so that students will know what is required to get a passing grade on the work they are completing. 
 
-Goguardian
+3. Goguardian - 
 I will use goguardian to help monitor the students as they work to problem solve and complete assignments. I will also use it to minimize the student contact during this COVID-19 era. 
 
-Aeries Student Information System
+4. Aeries Student Information System - 
 Here I will input attandance for eachs student as well as use thier gradebook for term of the course. 
 
-Zoom
+5. Zoom - 
 If we need to return to distance learning, I will use Zoom meetings to hold classes for students since our district has coninuted to pay for those accounts. Students are already familiar with the platform since that is what we were using schoolwide during the last school year. 
 
 ### Hardware Specifications
@@ -86,9 +89,9 @@ Assignments will be submitted by sharing a link from Scratch on Google Classroom
 Students that pass this course will be able to apply their skills to future courses when they attend high school. As a part of Porterville Unifed School District, PUSD, there is a CODE pathway that 8th grade students can apply for. This high school pathway gives students a chance at experiencing a wide variety of hands-on projects. Here is what they have listed on their site, "In the CODE Academy, students gain hands-on experience in the areas of coding, cyber-security and computer application technology. Students complete projects by using Photoshop, creating mobile apps, programming robotics, developing web-based games, practicing cyber-security, and solving real-world problems. The CODE Academy uses Project Lead The Way curriculum." This course will help any student that wishes to apply to the CODE pathway in that they will be on step ahead because they will already be exposed to some basic skills needed to be successful.
 
 References:
-https://www.cde.ca.gov/sdprofile/details.aspx?cds=54721810000000
-https://support.hp.com/us-en/document/c04696931
-https://www.caschooldashboard.org/reports/54721810000000/2019
-https://scratch.mit.edu/
-https://classroom.google.com
-https://pathways.portervilleschools.org/apps/pages/CODE
+1. https://www.cde.ca.gov/sdprofile/details.aspx?cds=54721810000000
+2. https://support.hp.com/us-en/document/c04696931
+3. https://www.caschooldashboard.org/reports/54721810000000/2019
+4. https://scratch.mit.edu/
+5. https://classroom.google.com
+6. https://pathways.portervilleschools.org/apps/pages/CODE
