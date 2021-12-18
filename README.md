@@ -45,7 +45,7 @@ Being Socioeconomically Disadvantaged 86.7% I know that not all students have a 
 
 Every student's operating system will be the same since all students are provided a school device.
 
-I plan to use:
+I plan to use all free/district provided Softwares:
 
 1. Scratch - 
 https://scratch.mit.edu "Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations."
@@ -54,13 +54,16 @@ https://scratch.mit.edu "Scratch is a free programming language and online commu
 2. Google Classroom - 
 Here I will post the assignments such as the problets and final project that students will complete on Scratch. Students will have to share thier link after they have made it sharable on thier Scratch account and submit here for grading. Here is where i will also post the grading rubric so that students will know what is required to get a passing grade on the work they are completing. 
 
-3. Goguardian - 
+3.Google Forms -
+I will use Google Forms to collect responces from students. This will help to retain anonymity and also for those students that may be intimidated for whatever reason. 
+
+4. Goguardian - 
 I will use goguardian to help monitor the students as they work to problem solve and complete assignments. I will also use it to minimize the student contact during this COVID-19 era. 
 
-4. Aeries Student Information System - 
+5. Aeries Student Information System - 
 Here I will input attandance for eachs student as well as use thier gradebook for term of the course. 
 
-5. Zoom - 
+6. Zoom - 
 If we need to return to distance learning, I will use Zoom meetings to hold classes for students since our district has coninuted to pay for those accounts. Students are already familiar with the platform since that is what we were using schoolwide during the last school year. 
 
 ### Hardware Specifications
@@ -90,17 +93,16 @@ Classroom technology: three LG - 55"- LED - 1080p - Smart - HDTV Roku TVs  will 
 
 ### Application.
 
-We do not have a dedicated computer lab, so that I will be using my math classroom as the place of meeting. I plan on using Peer instruction by starting with more minor problems that students can solve in a class session. After students have solved the problem, I will gather student responses through a shared link from Scratch on Google Classroom to gather the data. After this, the class will be broken up into pairs or small groups to discuss why their response was a good answer, not necessarily wrong or right but just what they think is a good idea. Collect responses again from groups through a similar shared link from Scratch on Google Classroom as before. Finally, the teacher will facilitate discussion, answer questions, and explain why some answers are correct, and some are wrong.  
+We do not have a dedicated computer lab, so that I will be using my math classroom as the place of meeting. I plan on using Peer Instruction by starting with more minor problems that students can solve in a class session. After students have solved the problem, I will gather student responses through a shared Google Form on Google Classroom to gather the data. After this, the class will be broken up into pairs or small groups to discuss why their response was a good answer, not necessarily wrong or right but just what they think is a good idea. Collect responses again from groups through a similar shared link from Google Forms on Google Classroom as before. Finally, the teacher will facilitate discussion, answer questions, and explain why some answers are correct, and some are wrong.  
 Once students have solved a few problems, they will be assigned a game project as their final project. In the same way, as the teacher presented problems, the project will run the same route where they start by themselves, move to pairs/small groups, and finally, whole-class discussions.  
 
-Homework for this class will be pretty much nonexistent because of the impact of being in a district that is 86.7% socioeconomically disadvantaged and lack of internet providers in the area. Assigning homework in this area will likely lead to success in a particular demographic and failure in another. I will make sure that students have enough time during regular class sessions to complete all assignments, and if need be, I am available after school hours for those needing the extra time.  
+Homework for this class will be pretty much nonexistent because of the impact of being in a district that is 86.7% socioeconomically disadvantaged and lack of internet providers in the area. Assigning homework in this area will likely lead to success in a particular demographic and failure in another. I will make sure that students have enough time during regular class sessions to complete all assignments, and if need be, I am available after school hours for those needing the extra time or those that lack stable internet connections at home.  
 
-Students will submit assignments by sharing a link from Scratch on Google Classroom, allowing easy grading and permitting the teacher more time to help students. The feedback gathered during the project will be utilized to further adapt the lesson for future classes. The teacher will be inputting their grades in Aeries.
+Students will submit assignments by sharing a link from Scratch on Google Classroom, allowing easy grading and permitting the teacher more time to help students. The feedback gathered during the project will be utilized to further adapt the lesson for future classes. The teacher will be inputting their grades intoGradebook on Aeries.
 
 ### Impacts
 
-Students who pass this course will apply their skills to future classes when they attend high school. As a part of Porterville Unified School District, PUSD, there is a CODE pathway that 8th-grade students can apply. This high school pathway gives students a chance to experience many hands-on projects. Here is what they have listed on their site, "In the CODE Academy, students gain hands-on experience in the areas of coding, cyber-security, and computer application technology. Students complete projects using Photoshop, create mobile apps, program robotics, develop web-based games, practice cyber-security, and solve real-world problems. The CODE Academy uses Project Lead The Way curriculum." This course will help any student that wishes to apply to the CODE pathway in that they will be one step ahead because they will receive exposure to some basic skills needed to be successful.
-
+Students who pass this course will apply their skills to future classes when they attend high school. As a part of Porterville Unified School District, PUSD, there is a CODE pathway that 8th-grade students can apply. This high school pathway gives students a chance to experience many hands-on projects. Here is what they have listed on their site, "In the CODE Academy, students gain hands-on experience in the areas of coding, cyber-security, and computer application technology. Students complete projects using Photoshop, create mobile apps, program robotics, develop web-based games, practice cyber-security, and solve real-world problems. The CODE Academy uses Project Lead The Way curriculum." This course will help any student that wishes to apply to the CODE pathway in that they will be one step ahead because they will receive exposure to some basic skills needed to be successful. My course will not be a requirment to the CODE pathway but by taking my course it would help front load information for when they get there.
 References:
 - https://www.cde.ca.gov/sdprofile/details.aspx?cds=54721810000000
 - https://support.hp.com/us-en/document/c04696931
