@@ -76,7 +76,7 @@ Student chromoebooks have:
 -  Power supply HP 45 W Smart AC Adapter
 
 The computer that I will be using has:
-- Storage capacity 237 GB
+- Storage capacity 250 GB
 - Processor	AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx     2.30 GHz
 - Installed RAM	12.0 GB (9.92 GB usable)
 - System type	64-bit operating system, x64-based processor
@@ -90,16 +90,16 @@ Classroom technology: three LG - 55"- LED - 1080p - Smart - HDTV Roku TVs  will 
 
 ### Application.
 
-We do not have a dedicated computer lab so I will be using my math classroom as the place of meeting. I plan on using Peer instruction. We will first start with smaller problets that students can solve in a class session. After students have solved problet, I will gather student responces. Then class is broken up into pairs or small groups to disscuss why their repsonce was a good answer, ot nessicarly to be wrong or right but just what they think is a good idea. Collect responces again from groups and finally teacher will faciliate disscussion and answer questions and give rational as to why some answers are right and some are wrong. 
-Once students have a solve a few problets then they will be assigned a game project as their final project for the class. In the same way as problets were presented, the project will run the same route where they start by themselves, move to pairs/small groups, and finally whole class disscussions. 
+We do not have a dedicated computer lab, so that I will be using my math classroom as the place of meeting. I plan on using Peer instruction by starting with more minor problems that students can solve in a class session. After students have solved the problem, I will gather student responses through a shared link from Scratch on Google Classroom to gather the data. After this, the class will be broken up into pairs or small groups to discuss why their response was a good answer, not necessarily wrong or right but just what they think is a good idea. Collect responses again from groups through a similar shared link from Scratch on Google Classroom as before. Finally, the teacher will facilitate discussion, answer questions, and explain why some answers are correct, and some are wrong.  
+Once students have solved a few problems, they will be assigned a game project as their final project. In the same way, as the teacher presented problems, the project will run the same route where they start by themselves, move to pairs/small groups, and finally, whole-class discussions.  
 
-Homework for this class will be pretty much nonexistent because of the inpact of being in a district that is 86.7% socioeconomically disadvantaged and lack of internet providers in the area. I will make sure that students have enough time during regular class sessions to complete all assignments and if need be I am available after school hours for those needing the extra time. 
+Homework for this class will be pretty much nonexistent because of the impact of being in a district that is 86.7% socioeconomically disadvantaged and lack of internet providers in the area. Assigning homework in this area will likely lead to success in a particular demographic and failure in another. I will make sure that students have enough time during regular class sessions to complete all assignments, and if need be, I am available after school hours for those needing the extra time.  
 
-Assignments will be submitted by sharing a link from Scratch on Google Classroom and I will input their grades in Aeries.
+Students will submit assignments by sharing a link from Scratch on Google Classroom, allowing easy grading and permitting the teacher more time to help students. The feedback gathered during the project will be utilized to further adapt the lesson for future classes. The teacher will be inputting their grades in Aeries.
 
 ### Impacts
 
-Students that pass this course will be able to apply their skills to future courses when they attend high school. As a part of Porterville Unifed School District, PUSD, there is a CODE pathway that 8th grade students can apply for. This high school pathway gives students a chance at experiencing a wide variety of hands-on projects. Here is what they have listed on their site, "In the CODE Academy, students gain hands-on experience in the areas of coding, cyber-security and computer application technology. Students complete projects by using Photoshop, creating mobile apps, programming robotics, developing web-based games, practicing cyber-security, and solving real-world problems. The CODE Academy uses Project Lead The Way curriculum." This course will help any student that wishes to apply to the CODE pathway in that they will be on step ahead because they will already be exposed to some basic skills needed to be successful.
+Students who pass this course will apply their skills to future classes when they attend high school. As a part of Porterville Unified School District, PUSD, there is a CODE pathway that 8th-grade students can apply. This high school pathway gives students a chance to experience many hands-on projects. Here is what they have listed on their site, "In the CODE Academy, students gain hands-on experience in the areas of coding, cyber-security, and computer application technology. Students complete projects using Photoshop, create mobile apps, program robotics, develop web-based games, practice cyber-security, and solve real-world problems. The CODE Academy uses Project Lead The Way curriculum." This course will help any student that wishes to apply to the CODE pathway in that they will be one step ahead because they will receive exposure to some basic skills needed to be successful.
 
 References:
 - https://www.cde.ca.gov/sdprofile/details.aspx?cds=54721810000000
